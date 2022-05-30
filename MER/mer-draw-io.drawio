@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T11:49:34.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.64" etag="zYqFDr25FrHA9thFFl6q" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T11:53:05.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.64" etag="97mE9BPzj0yjWoQEQ3Pe" version="18.1.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="722" dy="2490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -1690,7 +1690,7 @@
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IdpMbYvHJafA_dwijVwq-7" value="member_id" style="shape=partialRectangle;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontColor=#333333;strokeColor=#666666;whiteSpace=wrap;flipH=1;" parent="IdpMbYvHJafA_dwijVwq-5" vertex="1">
+        <mxCell id="IdpMbYvHJafA_dwijVwq-7" value="subscriptions_plans_id" style="shape=partialRectangle;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontColor=#333333;strokeColor=#666666;whiteSpace=wrap;flipH=1;" parent="IdpMbYvHJafA_dwijVwq-5" vertex="1">
           <mxGeometry x="80" width="160" height="30" as="geometry">
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
